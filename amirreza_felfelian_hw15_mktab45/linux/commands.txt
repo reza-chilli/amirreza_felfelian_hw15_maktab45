@@ -1,0 +1,3 @@
+sudo groupadd maktab45
+sudo useradd ali
+sudo usermod -G sudo,maktab45 ali
